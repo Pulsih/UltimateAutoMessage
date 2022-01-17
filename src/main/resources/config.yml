@@ -1,0 +1,31 @@
+Settings:
+  # The cooldown between a message
+  Messages-Delay: 120 # In seconds
+
+  # It will randomly send messages
+  # instead of following the list.
+  Random-Mode: false
+
+  # Enabling this option will also show
+  # the auto-messages in the console.
+  Show-Messages-To-Console: false
+
+  # Make the plugin able to check for updates
+  Update-Checker: true
+
+Messages:
+  example-message1:
+    - ""
+    - "         &aExample message 1!"
+    - "   &bEdit these lines in the config!"
+    - ""
+  example-message2:
+    - ""
+    - "         &aExample message 2!"
+    - "   &bEdit these lines in the config!"
+    - ""
+  example-message3:
+    - ""
+    - "         &aExample message 3!"
+    - "   &bEdit these lines in the config!"
+    - ""

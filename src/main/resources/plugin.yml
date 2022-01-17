@@ -1,0 +1,9 @@
+name: UltimateAutoMessage
+version: '${version}'
+main: me.pulsi_.ultimateautomessage.UltimateAutoMessage
+api-version: 1.13
+load: STARTUP
+authors: [ Pulsi_ ]
+commands:
+  ultimateautomessage:
+    aliases: [automessage, am]
